@@ -1,9 +1,9 @@
 ---
 #preview details
-image: /images/team-1-t-min.png
-name: Steven Morrison
-role: Full-stack Developer
-first_letter: S
+image: /images/team3.jpg
+name: Keila Diaz
+role: Senior Media Planner
+first_letter: K
 social:
   - link: https://facebook.com/
     icon: fab fa-facebook-f
@@ -17,17 +17,17 @@ social:
 info:
   - label: Age
     value: 29 Years
-  
+
   - label: Location
     value: Baird House, 15-17 St Cross St London EC1N 8UW
-  
+
   - label: Email
     value: steven.morrison@domain.com
 
   - label: Phone No
     value: +44 (0) 20 7430 2973
 
-services: 
+services:
   - service-1
   - service-2
   - service-3
@@ -47,7 +47,7 @@ awards:
     value: 22
     image: /images/award3.png
 
-projects: 
+projects:
   - project-04
   - project-03
   - project-02

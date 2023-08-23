@@ -1,8 +1,8 @@
 ---
 #preview details
-image: /images/team-2-t-min.png
-name: Thomas Jackki
-role: UI & UX Designer
+image: /images/team1.jpg
+name: Tere Suarez
+role: Art Director
 first_letter: T
 social:
   - link: https://facebook.com/
@@ -17,17 +17,17 @@ social:
 info:
   - label: Age
     value: 27 Years
-  
+
   - label: Location
     value: Baird House, 15-17 St Cross St London EC1N 8UW
-  
+
   - label: Email
     value: thomesjackki@domain.com
 
   - label: Phone No
     value: +44 (0) 20 7430 2973
 
-services: 
+services:
   - service-1
   - service-2
   - service-3
@@ -47,7 +47,7 @@ awards:
     value: 20
     image: /images/award3.png
 
-projects: 
+projects:
   - project-04
   - project-02
   - project-03

@@ -1,8 +1,10 @@
 {
-    "video": "/video/stvideo.mp4",
+    "video": "/video/agencia.mp4",
     "title": {
-        "text": "We Make <br/>Everything",
+        "text": "Dpto. de Salud - Gobierno de la Ciudad de Puerto Rico",
         "icon": "/images/title_icon.svg"
     },
-    "subtitle": "Creative studio at the <br/> intersection of art, design <br/> and technology."
+    "subtitle": "PAQUE",
+    "subtitle2": "NOTE",
+    "subtitle3": "PIQUEN"
 }

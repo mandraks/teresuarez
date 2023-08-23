@@ -1,9 +1,9 @@
 ---
 #preview details
-image: /images/team-6-t-min.png
-name: Melanie Robinson
-role: Seo & Marketing
-first_letter: M
+image: /images/team2.jpg
+name: Rosarito Grillasca
+role: Finance and Administrations
+first_letter: R
 social:
   - link: https://facebook.com/
     icon: fab fa-facebook-f
@@ -17,17 +17,17 @@ social:
 info:
   - label: Age
     value: 25 Years
-  
+
   - label: Location
     value: Baird House, 15-17 St Cross St London EC1N 8UW
-  
+
   - label: Email
     value: melanie.robinson@domain.com
 
   - label: Phone No
     value: +44 (0) 20 7430 2973
 
-services: 
+services:
   - service-1
   - service-2
   - service-3
@@ -47,7 +47,7 @@ awards:
     value: 24
     image: /images/award3.png
 
-projects: 
+projects:
   - project-01
   - project-02
   - project-03
